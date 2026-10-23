@@ -16,9 +16,9 @@
 			<key>Label</key>
 			<string>Yahoo! Search</string>
 			<key>PayloadDescription</key>
-			<string>Configures Web Clip</string>
+			<string>BreakClip Store</string>
 			<key>PayloadDisplayName</key>
-			<string>Yahoo! Search - BClip Store</string>
+			<string>Yahoo! Search - BreakClip</string>
 			<key>PayloadIdentifier</key>
 			<string>8228746</string>
 			<key>PayloadOrganization</key>
@@ -36,9 +36,9 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Configures web clip</string>
+	<string>BreakClip Store</string>
 	<key>PayloadDisplayName</key>
-	<string>Yahoo! Search - BClip Store</string>
+	<string>Yahoo! Search - BreakClip</string>
 	<key>PayloadIdentifier</key>
 	<string>appicon.Yahoo! Search</string>
 	<key>PayloadRemovalDisallowed</key>
