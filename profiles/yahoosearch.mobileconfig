@@ -38,7 +38,7 @@
 	<key>PayloadDescription</key>
 	<string>Configures web clip</string>
 	<key>PayloadDisplayName</key>
-	<string>Yahoo! Search Web Clip</string>
+	<string>Yahoo! Search - BClip Store</string>
 	<key>PayloadIdentifier</key>
 	<string>appicon.Yahoo! Search</string>
 	<key>PayloadRemovalDisallowed</key>
